@@ -1,6 +1,6 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Home from './bike/Home'
+import Home from './discover/Home'
 import { PaperProvider } from 'react-native-paper'
 
 const App = () => {
